@@ -15,4 +15,5 @@ Oracle SQL Developer 에서 SQL sever로 connect 하기 위해서 여러가지 �
 2. ISAQ(뭔지 모름) - main
 3. POINT - main
 4. nPass - sub
+
 아직 모든 것이 새롭고 배워야 될게 태산같다. 열심히 해서 1주일 내로 적응될 수 있게 노력하겠다.
